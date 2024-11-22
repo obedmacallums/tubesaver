@@ -1,0 +1,8 @@
+# file ignore by git
+# streamlit app
+
+env
+*.pyc
+*.pyo
+__pycache__
+.DS_Store
